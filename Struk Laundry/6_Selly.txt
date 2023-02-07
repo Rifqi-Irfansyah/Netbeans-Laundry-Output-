@@ -1,0 +1,23 @@
+
+                 Laundry Cubachi                 
+     Gg. Wahana Bakti 9, Kel. Cigugur Tengah     
+             Kota Cimahi, Jawa Barat             
+=================================================
+ Nomor Antrian	: 6
+ Nama Pelanggan	: Selly
+=================================================
+
+                   DETAIL PRICE
+-------------------------------------------------
+ Berat Baju	: 4 Kg			Rp. 20000
+ Pengharum	: sakura
+ Pelayanan	: setrika		RP. 8000
+-------------------------------------------------
+ Total bayar				Rp. 28000
+
+ Jumlah Uang				RP. 30000
+ Kembalian				RP. 2000
+
+
+     Terimakasih Telah Melakukan Menggunakan     
+              Jasa Layanan Kami :)                 
