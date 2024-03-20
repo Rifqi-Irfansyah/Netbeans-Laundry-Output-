@@ -64,7 +64,6 @@ CREATE TABLE `pelanggan` (
 
 INSERT INTO `pelanggan` (`kd_pelanggan`, `nama`, `alamat`, `no_hp`, `berat_baju`, `pelayanan`, `pengharum`, `created_at`, `selesai`, `finish_at`) VALUES
 (1, 'Rifqi', 'Cimahi', '089656908515', 5, 'tanpa setrika', 'sakura', '2022-09-11', '√', '2022-09-14'),
-(6, 'Selly', 'Cibogo', '085692357988', 4, 'setrika', 'sakura', '2022-09-11', '√', '2022-09-14'),
 (12, 'Hakim', 'Cigugur', '083636282738', 7, 'tanpa setrika', 'lavender', '2022-09-12', '√', '2022-09-14'),
 (13, 'Marco', 'Ciawitali', '089625372636', 5, 'setrika', 'cofee', '2022-09-12', '√', '2022-09-14'),
 (14, 'Angga ', 'Bandung', '082222123234', 2, 'setrika', 'lavender', '2022-09-12', '√', '2022-09-15'),

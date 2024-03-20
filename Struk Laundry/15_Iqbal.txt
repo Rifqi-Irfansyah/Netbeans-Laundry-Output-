@@ -3,19 +3,19 @@
      Gg. Wahana Bakti 9, Kel. Cigugur Tengah     
              Kota Cimahi, Jawa Barat             
 =================================================
- Nomor Antrian	: 6
- Nama Pelanggan	: Selly
+ Nomor Antrian	: 15
+ Nama Pelanggan	: Iqbal
 =================================================
 
                    DETAIL PRICE
 -------------------------------------------------
- Berat Baju	: 4 Kg			Rp. 20000
- Pengharum	: sakura
- Pelayanan	: setrika		RP. 8000
+ Berat Baju	: 3 Kg			Rp. 15000
+ Pengharum	: philux
+ Pelayanan	: setrika		RP. 6000
 -------------------------------------------------
- Total bayar				Rp. 28000
+ Total bayar				Rp. 21000
 
- Jumlah Uang				RP. 30000
+ Jumlah Uang				RP. 23000
  Kembalian				RP. 2000
 
 
